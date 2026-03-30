@@ -77,4 +77,4 @@ npm run dev
 6. Open http://localhost:5173 (or the address shown in your console) in your web browser to view the app.
 
 
-![little garden placeholder](/src/assets/little-garden-placeholder.png)
+![little garden placeholder](/src/assets/little-garden-placeholder.gif)
